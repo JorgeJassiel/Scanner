@@ -7,7 +7,7 @@ Este proyecto implementa un escáner de puertos combinado con un capturador de b
 - Captura de banners de servicios
 - Timeouts y manejo de conexiones
 
-## 🚀 Características
+Características
 
 - Escanea puertos del 1 al 200 en una IP objetivo
 - Detecta puertos abiertos usando `connect_ex()`
